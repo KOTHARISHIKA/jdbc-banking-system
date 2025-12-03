@@ -1,0 +1,8 @@
+﻿# Ignore build and IDE files
+out/
+src/out/
+*.class
+.vscode/
+.idea/
+*.log
+.DS_Store
