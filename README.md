@@ -23,7 +23,7 @@ A console-based banking system built using Java, JDBC, and MySQL.
 ---
 
 ## Project Structure
-
+```
 src/
  └── com/example/bankconsole/
       ├── Main.java
@@ -32,19 +32,19 @@ src/
       ├── Transaction.java
       ├── BankJdbc.java
       └── DBConnection.java
-
+```
 ---
 
 ## How to Run (local)
 
 Compile:
-
+```
 javac src/com/example/bankconsole/*.java
-
+```
 Run:
-
+```
 java -cp src com.example.bankconsole.Main
-
+```
 
 ---
 
